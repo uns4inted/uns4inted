@@ -6,7 +6,7 @@ I've been learning programming for more than 5 years already and currently I'm a
 
 * 🌍  I'm based in Ukraine
 * 🪪  Web site: [ross-webdev.com](https://ross-webdev.com/)
-* 🧠  I'm learning Next.js 13 right now
+* 🧠  I'm learning C++ right now
 
 
 <div align="center">
