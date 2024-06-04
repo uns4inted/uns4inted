@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Ross.</h1>
 
-<h2 align="center">Web Developer</h2>
-
-I've been learning programming for more than 5 years already and currently I'm an experienced Web Developer. Also I'm passioned about Game Development especially in C++ and Unreal Engine technologies.
+I've been learning programming for more than 5 years already. Mostly worked as a Web Developer.
+Also, I'm passionate about Game Development, especially in C++ and Unreal Engine.
+Currently focusing on developing Game Design skills and practicing them with Godot engine.
 
 * 🌍  I'm based in Ukraine
-* 🪪  Web site: [ross-webdev.com](https://ross-webdev.com/)
-* 🧠  I'm learning C++ right now
+* 🪪  Web site: in progress
+* 🧠  I'm learning Godot right now
 
 
 <div align="center">
@@ -36,12 +36,13 @@ I've been learning programming for more than 5 years already and currently I'm a
 
   <h3 align="center">Other</h3>
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="42" alt="gitlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" width="42" alt="bitbucket logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="30" width="42" alt="sourcetree logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="42" alt="jira logo"  />
 </div>
@@ -55,9 +56,7 @@ I've been learning programming for more than 5 years already and currently I'm a
   <a href="mailto:smoothie.anon@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/rostyslav-shkolyk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  
   <a href="https://t.me/smoothie_anon" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
